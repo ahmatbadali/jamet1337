@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ahmat Badali (Jamet1337)
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=jamet1337&show_icons=true&theme=onedark&locale=en" alt="jamet1337" /></p>
+
 
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamet1337" alt="jamet1337" /></a></p>
@@ -13,6 +13,13 @@
 -  🗓️ 15 y.o.
 -  👨🏽‍💻 </.Heker .App Dev .Web Dev>
 -  🌍 jam3t.web1337.net
+
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamet1337&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
